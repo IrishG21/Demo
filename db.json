@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Irish Galvez",
+      "age": 21,
+      "sex": "Female"
+    },
+    {
+      "id": 2,
+      "name": "Leslie Castro",
+      "age": 22,
+      "sex": "Female"
+    }
+  ],
+  "job": [
+    {
+      "position": "Developer",
+      "level": "Intermediate"
+    }
+  ]
+}
